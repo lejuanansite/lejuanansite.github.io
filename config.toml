@@ -1,0 +1,23 @@
+theme = "lynx"
+title = "lejuanansite"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Juanan"
+  image = "author.png"
+  links = [
+    { github = "https://github.com/Juananthon" },
+    { twitter = "https://twitter.com/juanan3k" },
+    { soundcloud = "https://soundcloud.com/juananthon" },
+    { instagram = "https://www.instagram.com/juananthon/" },
+    { linkedin = "https://www.linkedin.com/in/lejuanansite" },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
