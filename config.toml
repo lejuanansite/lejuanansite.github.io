@@ -3,6 +3,7 @@ title = "lejuanansite"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
+googleAnalytics = "G-7GFQDNBTH9"
 
 [author]
   name = "Juanan"
@@ -21,3 +22,5 @@ disableKinds = ["taxonomy", "term"]
 [markup.goldmark]
 [markup.goldmark.renderer]
   unsafe = true
+
+
